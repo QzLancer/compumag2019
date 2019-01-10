@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.20)  9 JAN 2019 19:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.20)  10 JAN 2019 11:04
 entering extended mode
 **"./Using Nodal Domain Decomposition With Relaxation Method For Dynamic Charac
 teristic Solving.tex"
@@ -778,20 +778,20 @@ LaTeX Font Info:    Calculating math sizes for size <11> on input line 36.
 
 pdfTeX warning: pdflatex.exe (file ./ddm.pdf): PDF inclusion: found PDF version
  <1.7>, but at most version <1.5> allowed
-<ddm.pdf, id=28, 463.7325pt x 460.72125pt>
+<ddm.pdf, id=28, 349.90726pt x 348.1005pt>
 File: ddm.pdf Graphic file (type pdf)
 <use ddm.pdf>
 Package pdftex.def Info: ddm.pdf  used on input line 57.
-(pdftex.def)             Requested size: 101.66719pt x 101.00748pt.
+(pdftex.def)             Requested size: 101.66719pt x 101.13777pt.
 
 
 pdfTeX warning: pdflatex.exe (file ./nddr.pdf): PDF inclusion: found PDF versio
 n <1.7>, but at most version <1.5> allowed
-<nddr.pdf, id=29, 461.92577pt x 459.51674pt>
+<nddr.pdf, id=29, 349.90726pt x 348.1005pt>
 File: nddr.pdf Graphic file (type pdf)
 <use nddr.pdf>
 Package pdftex.def Info: nddr.pdf  used on input line 60.
-(pdftex.def)             Requested size: 101.66719pt x 101.13606pt.
+(pdftex.def)             Requested size: 101.66719pt x 101.13777pt.
 
 Underfull \hbox (badness 1478) in paragraph at lines 67--69
 \OT1/ptm/m/n/10 type trans-mis-sion con-di-tion [[]]. There-fore, we in-tro-duc
@@ -809,18 +809,29 @@ th page group included in a single page
 
 pdfTeX warning: pdflatex.exe (file ./flowchart.pdf): PDF inclusion: found PDF v
 ersion <1.7>, but at most version <1.5> allowed
-<flowchart.pdf, id=59, 753.41472pt x 582.97798pt>
+<flowchart.pdf, id=73, 753.41472pt x 582.97798pt>
 File: flowchart.pdf Graphic file (type pdf)
 <use flowchart.pdf>
 Package pdftex.def Info: flowchart.pdf  used on input line 129.
 (pdftex.def)             Requested size: 254.17188pt x 196.67096pt.
-<simple2.png, id=61, 306.54526pt x 301.72725pt>
-File: simple2.png Graphic file (type png)
-<use simple2.png>
-Package pdftex.def Info: simple2.png  used on input line 139.
-(pdftex.def)             Requested size: 101.66719pt x 100.06752pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./contactor1.pdf): PDF inclusion: found PDF 
+version <1.7>, but at most version <1.5> allowed
+<contactor1.pdf, id=75, 466.1415pt x 426.39299pt>
+File: contactor1.pdf Graphic file (type pdf)
+<use contactor1.pdf>
+Package pdftex.def Info: contactor1.pdf  used on input line 139.
+(pdftex.def)             Requested size: 177.91953pt x 162.7532pt.
+[2 <./flowchart.pdf> <./contactor1.pdf
+
+pdfTeX warning: pdflatex.exe (file ./contactor1.pdf): PDF inclusion: multiple p
+dfs with page group included in a single page
+>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 166.
-[2 <./flowchart.pdf> <./simple2.png>]
+ [3
+
+]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 166.
 
 ("Using Nodal Domain Decomposition With Relaxation Method For Dynamic Character
@@ -834,12 +845,12 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 166.
  ) 
 Here is how much of TeX's memory you used:
  16715 strings out of 492969
- 291741 string characters out of 3126585
- 371205 words of memory out of 3000000
+ 291784 string characters out of 3126585
+ 371278 words of memory out of 3000000
  20479 multiletter control sequences out of 15000+200000
  566210 words of font info for 86 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
- 41i,12n,63p,879b,331s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,12n,63p,879b,463s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/35195/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
 }<C:/Users/35195/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmex10.pfb><C:/Users/35195/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
@@ -853,9 +864,9 @@ Users/35195/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb>
 .pfb><C:/Users/35195/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/ut
 mr8a.pfb>
 Output written on "Using Nodal Domain Decomposition With Relaxation Method For 
-Dynamic Characteristic Solving.pdf" (2 pages, 241835 bytes).
+Dynamic Characteristic Solving.pdf" (3 pages, 181839 bytes).
 PDF statistics:
- 140 PDF objects out of 1000 (max. 8388607)
- 22 named destinations out of 1000 (max. 500000)
+ 163 PDF objects out of 1000 (max. 8388607)
+ 23 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
